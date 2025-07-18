@@ -23,7 +23,7 @@ Dashboard interactivo desarrollado en Power BI para visualizar indicadores clave
 🗺️ Distribución geográfica por ciudad, 🧬 segmentación por género y 🧩 análisis por departamentos
 
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/8d580315-e469-4590-9a03-f48e5e6f71f8" />
-
-<iframe title="Dashboard de Recursos humanos Power BI" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOGVmMzU2NzMtYWIwNS00OGJlLTk0NWItZWUwNTdmNjM0MmQwIiwidCI6ImZkNzY2ZWRkLThiZWEtNGM5OS04NjcyLTU2ZDFjYWJjMjcwNiIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+# Exploración Interactiva 👇⬇️
+https://app.powerbi.com/viewr=eyJrIjoiOGVmMzU2NzMtYWIwNS00OGJlLTk0NWItZWUwNTdmNjM0MmQwIiwidCI6ImZkNzY2ZWRkLThiZWEtNGM5OS04NjcyLTU2ZDFjYWJjMjcwNiIsImMiOjR9
 
 
