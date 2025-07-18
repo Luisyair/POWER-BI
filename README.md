@@ -14,3 +14,14 @@ Este espacio también refleja mi compromiso con el aprendizaje continuo y la mej
 
 <img width="1162" height="650" alt="image" src="https://github.com/user-attachments/assets/fdbe349d-466e-49b3-b521-69cbf5a4de0c" />
 
+
+## 👥📈📋 DASHBOARD DE RECURSOS HUMANOS  🧑‍💼🏢💰
+Dashboard interactivo desarrollado en Power BI para visualizar indicadores clave de gestión humana. Muestra contrataciones anuales, empleados activos, despidos y tasa de rotación. Incluye visualizaciones por ciudad, género y departamento, permitiendo analizar la distribución laboral y detectar oportunidades de mejora organizacional.
+📅 Contrataciones por año para evaluar crecimiento organizacional
+👥 Empleados activos y 🛑 despidos para medir estabilidad laboral
+🔄 Tasa de rotación para detectar áreas de mejora en retención
+🗺️ Distribución geográfica por ciudad, 🧬 segmentación por género y 🧩 análisis por departamentos
+
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/8d580315-e469-4590-9a03-f48e5e6f71f8" />
+
+
