@@ -8,6 +8,8 @@ Cada proyecto nace con el objetivo de perfeccionar mis habilidades en análisis 
 
 Este espacio también refleja mi compromiso con el aprendizaje continuo y la mejora profesional, integrando buenas prácticas en limpieza de datos, uso de DAX, relaciones entre tablas y optimización de visualizaciones para usuarios finales.
 
+
+## 🧾🛍️📦 DASHBOARD DE VENTAS 💰
 📊 Este dashboard de ventas desarrollado en Power BI ofrece una vista integral del rendimiento comercial. Incluye métricas como ventas totales, costos, unidades y cantidad de productos vendidos. Mediante gráficos de línea, barras y pastel, se analizan las ventas por mes, por marca y por continente. Además, se destacan insights específicos sobre productos como el queso brie, permitiendo evaluar su impacto en las ventas generales. Esta herramienta está diseñada para facilitar decisiones empresariales precisas a través de visualizaciones dinámicas y análisis segmentado.
 
 <img width="1162" height="650" alt="image" src="https://github.com/user-attachments/assets/fdbe349d-466e-49b3-b521-69cbf5a4de0c" />
